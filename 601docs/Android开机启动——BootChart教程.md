@@ -14,7 +14,7 @@
 
 将INIT_BOOTCHART:= true加入Android.mk文件，如下图所示：
 
-![pic](Assets\1602503078.png)
+![pic](https://github.com/ccxx0914/ccxx0914.github.io/blob/master/601docs/Assets/1602503078.png)
 
 ### 2. 修改system/core/init/bootchart.h 
 
